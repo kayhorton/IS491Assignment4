@@ -1,11 +1,20 @@
-section.section1 {
-     
+body {
+    
+    
+    display: block;
+    
+}
+
+section.area1 {
+    width: 600px;
+    background-color: #ffffcc;
     visibility: hidden;
-    position: absolute;
+    position:  absolute;
     overflow: scroll;
 }
-section.section2 {
-     
+section.area2 {
+    width: 600px;
+    background-color: #dcdcdc; 
     visibility: hidden;
     position: !important;
     overflow: scroll;
